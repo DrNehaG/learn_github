@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore the folder from being committed to the GitHub
+git_env/
+
 # C extensions
 *.so
 
